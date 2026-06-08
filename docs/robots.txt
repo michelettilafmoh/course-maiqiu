@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://michelettilafmoh.github.io/course-maiqiu/sitemap.xml
